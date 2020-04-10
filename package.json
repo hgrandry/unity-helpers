@@ -1,0 +1,17 @@
+{
+	"name": "com.hgrandry.helpers",
+	"version": "1.0.0",
+	"displayName": "Hg Helpers",
+	"description": "A set of helpers methods for common operations with Unity",
+	"unity": "2019.1",
+	"unityRelease": "0b5",
+	"dependencies": {},
+	"keywords": [
+		"helpers"
+	],
+	"author": {
+		"name": "Hadrien Grandry",
+		"email": "hadrien.grandry@gmail.com",
+		"url": "https://hgrandry.github.io"
+	}
+}

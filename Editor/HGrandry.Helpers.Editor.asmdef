@@ -1,0 +1,17 @@
+{
+    "name": "HGrandry.Helpers.Editor",
+    "references": [
+        "GUID:64c002b2b9cb6be4ab428438ce2c6447"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
